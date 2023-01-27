@@ -1286,7 +1286,7 @@ color: #980505;
 .banner_section::after {
     content: '';
     position: absolute;
-    background: url("../images/card.png");
+    background: url("../main/images/card.png");
     background-repeat: no-repeat;
     background-size: contain;
     bottom: -10px;
