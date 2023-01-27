@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Aventa Variable';
+    src: url('AventaVariable.eot');
+    src: local('Aventa Variable'), local('AventaVariable'),
+        url('AventaVariable.eot?#iefix') format('embedded-opentype'),
+        url('AventaVariable.woff2') format('woff2'),
+        url('AventaVariable.woff') format('woff'),
+        url('AventaVariable.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
